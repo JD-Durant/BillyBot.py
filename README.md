@@ -1,7 +1,7 @@
 # BillyBot.py
 ### BillyBot.py's final resting form is now available for all!
 
-<img alt="ALT test" src="https://img10.joyreactor.cc/pics/post/gachimuchi-%D0%B3%D0%B8%D1%84%D0%BA%D0%B8-Pixel-Gif-Pixel-Art-6309849.gif">
+<img alt="ALT test" src="https://64.media.tumblr.com/eed2fb02f2ddf2929710feb30441e83e/tumblr_p55c01w9DN1vi6eedo1_1280.gif">
 
 Billy Bot has been a passion project of mine for a little over 2 years now.
 
